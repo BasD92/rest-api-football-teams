@@ -1,6 +1,6 @@
 <?php
 
-$dbHost = 'localhost';
-$dbUser = 'root';
+$dbHost = '';
+$dbUser = '';
 $dbPass = '';
-$dbDatabase = 'football';
+$dbDatabase = '';
